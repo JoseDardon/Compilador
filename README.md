@@ -9,12 +9,7 @@ Requisitos del Sistema
 Java Development Kit (JDK) versión 8 o superior
 NetBeans IDE versión 11 o superior
 Instalación
-Clonar el repositorio:
 
-bash
-Copiar código
-git clone https://github.com/tu-usuario/tu-repositorio.git
-Abrir el proyecto en NetBeans:
 
 Abre NetBeans IDE.
 Selecciona File > Open Project.
